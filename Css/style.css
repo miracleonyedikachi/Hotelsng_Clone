@@ -1,0 +1,693 @@
+header{
+    color: white;
+    background-color: blue;
+    height: 10%;
+    font-family: lato;
+    font-weight: bold;
+    line-height: 350%;
+}
+body{
+    background: honeydew;
+}
+.zo{
+    background: white;
+    padding-top: 1px;
+    color: blue;
+}
+#scale{
+    height: 250px;
+}
+#kon{
+    height:8px; 
+}
+img{
+    height: 50%;
+    width: 100%;
+}
+#search{
+    position: absolute;
+    font-weight: bold;
+    font-family: inherit;
+    margin-left: 400px;
+    top:150px;
+    height: 30px;
+    color:white;
+    font-size: 42px;
+}
+#bozo{
+    position: absolute;
+    font-weight: bold;
+    top: 200px;
+    margin-left: 460px;
+    margin-bottom: 100px;
+    font-family: inherit;
+    font-size:25px ;
+    color: white;
+}
+#sug{
+    text-align: center;
+    font-weight: bold;
+    font-family: inherit;
+    margin-top:7%;
+}
+#visit{
+    text-align: center;
+    font-weight: bold;
+    font-family: inherit;
+    margin-top: 1%;
+}
+#la{
+    color: blue;
+    font-family: inherit;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.lag{
+    border: 2px solid blue;
+   height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    width: 11%;
+}  
+#gos{
+    font-weight: bold;
+}
+.Abuja{
+    border: 2px solid blue;
+    height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    width: 11%;
+}
+#Abu{   
+     color: blue;
+    font-family: inherit;
+    font-weight: bold;
+    margin-top: 5%;
+}
+#ja{
+    font-weight: bold;
+}
+.por{
+    border:2px solid blue;
+    height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    width: 11%;
+}
+#port{
+   font-weight: bold;
+    color: blue;
+    font-family: inherit; 
+    margin-top: 5%;
+}
+#har{
+    font-weight: bold;
+}
+.kaduna{
+    border:2px solid blue;
+    height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+     color: blue;
+     width: 11%;
+}
+ #kad{
+    font-family: inherit; 
+    color:blue;
+    font-weight: bold;
+    margin-top: 5%;
+}
+#una{
+    font-weight: bold;
+}
+.uyo{
+    border:2px solid blue;
+    height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    width: 11%;
+}
+#u{
+    font-family: inherit;
+    color:blue;
+    font-weight: bold;
+    margin-top: 5%;
+}
+#yo{
+    font-weight: bold;
+}
+.ibadan{
+    border:2px solid blue;
+    height: 13%;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    width: 11%;
+}
+#iba{
+    font-family: inherit;
+    color:blue;
+    font-weight: bold;
+    margin-top: 5%;
+}
+#dan{
+    font-weight: bold;
+}
+.wrap {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.grap{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.wrap div {
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.grap div{
+    border:1px solid grey ;
+    border-radius: 6px;
+}
+.map{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.map div{
+    margin-right: 20px;
+}
+
+.book {
+    border: 2px solid transparent;
+    background-image: url('./hng.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-top: 0;
+}
+.ddd{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.voc{
+    background-color: blue;
+    margin-left: 40%;
+    margin-right: 40%;   
+}
+.myform{
+    display:flex;
+    background:white ;
+    height: 20%;
+    width: 80%;
+    margin-left: 10%;
+    justify-content:center;
+    position: absolute;
+    bottom: 30%;
+}
+.searchhotel div{
+  display: block;
+}
+.myform input{
+    width:90% ;
+    height: 45px;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.myform div {
+    margin-right: px;
+    padding-right: px;
+    width: 40%;
+}
+div .button {
+    width: 18%;
+
+}
+#findhotels{
+    background: blue;
+    color: white;
+    font-family: inherit;
+    width: 95%;
+    height: 35%;
+    margin-top: 6%;
+    border-radius: 4px;
+    font-size: 19px;
+    margin-left: 4px;
+    border: none;
+}
+hr{
+background:blue;
+height: 5px;
+width: 5%;
+margin: auto;
+border: none;
+}
+.deals{
+    display: flex;
+    margin-top: 1%;
+}
+.board{
+    height: 20px;
+    width: 350px;
+    border:solid 1px gray;height:fit-content;
+    border-radius: 4px;
+    margin-right:20px ;
+}
+.btt{
+    height: 20px;
+    width: 350px;
+    border: solid 1px grey;height: fit-content;
+    border-radius: 4px;
+}
+#ident{
+    color: blue;
+    padding-left: 8px;
+}
+.gg{
+    height: 250px;
+}
+.fest{
+    display: flex;
+}
+.corn{
+    width: 20em;
+    margin-right: 2%;
+    margin-left: 12%;
+    border:solid 1px gray;height:fit-content;
+    border-radius: 4px;
+    background: aqua;
+}
+.park{
+     width: 20em;
+    margin-right: 2%;
+    border:solid 1px gray;height:fit-content;
+    border-radius: 4px;
+}
+.iboma{  
+     width: 20em;
+    border:solid 1px gray;height:fit-content;
+    border-radius: 4px;
+}
+#chi{
+    padding-left: 8px;
+}
+#linux{
+    background:lightgray;
+}
+.mullar{
+    background: white;
+    padding-top: 1px; 
+    height: 30em;
+    width: 350px;
+    border:solid 1px gray;height:fit-content;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+.luxury{
+    background: white;
+    padding-top: 1px;
+}
+.room{
+    background: white;
+    padding-top: 1px
+}
+.nich{
+    background: white;
+    padding-top: 1px
+}
+.golf{
+    background: white;
+    padding-top: 1px
+}
+.view{
+    background: white;
+    padding-top: 1px
+}
+.img{
+    background: url(./lagos_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    margin-right: 2%;
+    margin-left: 12%;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+}
+.di{
+    background: url(./abuja_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    margin-right: 2%;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+}
+.ka{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0,0,0,0.8)), url(./crossriver_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+}
+.places{
+    display: flex;
+    margin-top: 3%;
+}
+#nit{
+    padding-right: 50px;
+    color: white;
+    font-weight: bold;
+    padding-left: 105px;
+}
+.obi{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0,0,0,0.8)), url(./port-harcourt_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+    margin-right: 2%;
+    margin-left: 12%;
+}
+.ower{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0,0,0,0.8)), url(./owerri_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+     margin-right: 2%;
+
+}
+.dog{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0,0,0,0.8)), url(./uyo_city1.jpg) no-repeat;
+    width: 20em;
+    height: 30em;
+    border:solid 1px grey;height: 240px;width:310px;
+    border-radius: 4px;
+}
+.tophotels{
+    display: flex;
+    margin-top: 15px;
+}
+.another{
+    display: flex;
+    margin-top: 10px;
+}
+#over{
+    color: blue;
+    width: 250px;
+    height: 1px;
+}
+#rev{
+    font-size: 14px;
+    width: 95%;
+}
+.don{
+    padding-left:30px;
+}
+.ama{
+    padding-left: 140px;
+    width: 230px;
+}
+.full{
+    width: 260px;
+}
+.fot{
+    width: 250px}
+.fis{
+    display: flex;
+    height: 60px;
+}
+.pros{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5%;
+    background: whitesmoke;
+    height: 200px;
+}
+.state1{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.state1 h4,p{
+ height: 2px;
+}
+.state1 div{
+   margin-right: 25px;
+   width: 18%; 
+}
+.state1 h4{
+    color: blue;
+}
+.state2{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.state2 h4,p{
+ height: 2px;
+}
+.state2 div{
+   margin-right: 25px;
+   width: 18%; 
+}
+.state2 h4{
+    color: blue;
+}
+.special{
+    text-align: center;
+    margin-top: 90px;
+    background:whitesmoke;
+    height: 30%;
+}
+#lop{
+    padding-top: 40px;
+    height: 18px;
+}
+#hatt{
+    padding-bottom: 25px;
+}
+.secret input{
+    height: 20%;
+    border-radius: 4px;
+    width: 35%;
+    padding-left: 20px;
+    border: 2px solid grey;
+}
+.secret button{
+    height:20% ;
+    background:blue ;
+    border-radius: 4px;
+    color: white;
+    width: 10%;
+    font-family: inherit;
+    font-size: 15px;
+    border: none;
+}
+.logos img{
+   width: 13%;
+   padding-right: 60px;  
+}
+.logos{
+    text-align: center;
+    height: 30%;
+}
+.addition{
+    text-align: center;
+    height: 40%;
+    padding-top: 10px;
+    
+}
+.addition button{
+    margin-top: 30px;
+    height: 16%;
+    border-radius: 4px;
+    width: 20%;
+    font-family: inherit;
+    color:white;
+    background: blue;
+    font-size: 17px;
+    border: none;
+}
+img[src="google-play-min.png"]{
+    width: 35%;
+    height: 13%;
+    ;
+}
+img[src="get-app-image-international.png"]{
+    width: 40%;
+    height: 80%;
+    padding-left: 195px;
+    padding-top: 25px;
+}
+.picture{
+    display: flex;
+    margin-bottom: 0px;
+}
+.google{
+    width: 70%;
+    position: relative;
+    top: 7em;
+}
+#app{
+    color: blue;
+    font-size: 60px;
+    font-family:inherit;
+    margin-bottom: 0;
+}
+#ng{
+    font-size:30px;
+    font-weight: bold;
+    font-family: inherit;
+    margin: 0;
+}
+.google p{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+.asss{
+    background:darkblue;
+    display: flex;
+    justify-content: center;
+}
+.bonk h4{
+    color: white;
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: inherit;
+    height: 5%;
+}
+.bonk p{
+    color:dodgerblue;
+    font-family: inherit;
+    font-size: 15px;
+}
+.bonk{
+    width: 30%;
+    margin-right: 50px;
+}
+#inputa{
+    height: 45px;
+    border-radius: 4px;
+    margin-top: 15px;
+    width: 22%;
+    padding-left: 10px;
+    border: none
+}
+#inputb{
+    height: 45px;
+    margin-top: 15px;
+    width: 15%;
+    border-radius:2px ;
+    color: white;
+    background:dodgerblue;
+    border: none;
+    font-family: inherit;
+    font-size: 17px;
+}
+.pref{
+    display: flex;
+    height: 38px;
+}
+.pref h4{
+    margin-left:130px ;
+    font-family: inherit;
+    color: gray;
+}
+#sap{
+    margin-top: 5px;
+    background: gray;
+    width: 85%;
+    height: 2px;
+}
+.font{
+    display: flex;
+}
+.font h4{
+    font-family: inherit;
+    color: dodgerblue;
+}
+.mayo{
+ margin-left:175px;
+ width: 15%;
+}
+.mayo h4{
+    height:1px;
+    margin-top: 12px;
+}
+.kiwi{
+    margin-left:60px;
+    width: 5%;
+   }
+   .kiwi h4{
+       height:1px;
+       margin-top: 12px;
+   }
+   .biwi{
+    margin-left:50px;
+    width: 
+   }
+   .biwi h4{
+       height:1px;
+       margin-top: 12px;
+   }
+   .wiwi{
+    margin-left:66px;
+    width: 12%;
+   }
+   .wiwi h4{
+       height:1px;
+       margin-top: 12px;
+   }
+   .mami{
+    margin-left:100px ;
+    width: 12%;
+   }
+   .mami h4{
+       height:1px;
+       margin-top: 12px;
+       margin-left: 28px;
+   }
+   #ani{
+       margin-left: 100px;
+       margin-top: 30px;
+       color: grey;
+       font-family: inherit;
+       font-weight: bold;
+   }
+   .dhl{
+       background: blue;
+       width: 10%;
+   }
+   .bbn{
+       background: blue;
+   }
+   .rv-slant{
+       background: blue;
+   }
+
+
+
+
+
+
+
+
+
+
+
